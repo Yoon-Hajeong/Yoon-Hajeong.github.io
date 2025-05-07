@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "코린이의 성장기록"
+title_separator          : "코린이의 성장기록"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Yoon-Hajeong"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #<br/>:줄바꿈을뜻함
+  bio              : "I am an **Water** person."
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
