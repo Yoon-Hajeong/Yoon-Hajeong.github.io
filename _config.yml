@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Yoon-Hajeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #<br/>:줄바꿈을뜻함
-  bio              : "I am **Water** person."
+  bio              : "I am a **Water** person."
   location         : "Seoul, South Korea"
   email            :
   links:
